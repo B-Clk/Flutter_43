@@ -61,6 +61,7 @@ Bu uygulama, aşağıdaki gruplar için tasarlanmıştır:
 
 
 
-** Final Video**: Cherry Chasers Trailer
+** Final Video**:
+[![Vücut Kitle İndeksi Hesaplama]([https://img.youtube.com/vi/OSBA1BF4d9s/0.jpeg)](https://www.youtube.com/watch?v=OSBA1BF4d9s](https://youtu.be/CyXKToVfYLM))
 
 

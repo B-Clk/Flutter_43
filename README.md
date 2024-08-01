@@ -3,9 +3,6 @@ Takım İsmi
 Flutter 43
 
 Takım Üyeleri
-Beyza Nur Çelik - Develope
-Berke Özduğan - Scrum Master
-Dilara Cihan - Product Owner
 Hepimiz için ayrı görev atamaları yapmadık sadece Scrum Master olarak Berke Özduğan'ı atadık onun dışında hepimiz ürünü geliştirmeye çalıştık.
 Uygulama İsmi
 Vücut Kitle İndeksi

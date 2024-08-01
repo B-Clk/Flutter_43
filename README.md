@@ -62,6 +62,6 @@ Bu uygulama, aşağıdaki gruplar için tasarlanmıştır:
 
 
 ** Final Video**:
-[![Vücut Kitle İndeksi Hesaplama](https://youtu.be/CyXKToVfYLM)
+[![Vücut Kitle İndeksi Hesaplama]([https://youtu.be/CyXKToVfYLM](https://www.youtube.com/watch?v=CyXKToVfYLM))]
 
 

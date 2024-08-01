@@ -1,24 +1,23 @@
 
-Takım İsmi
+## Takım İsmi
 Flutter 43
 
-Takım Üyeleri
+## Takım Üyeleri
 Beyza Nur Çelik
 Berke Özduğan 
 Dilara Cihan
 Hepimiz için ayrı görev atamaları yapmadık sadece Scrum Master olarak Berke Özduğan'ı atadık onun dışında hepimiz ürünü geliştirmeye çalıştık.
 
-Uygulama İsmi
+## Uygulama İsmi
 Vücut Kitle İndeksi
 
-Uygulama Açıklaması
+## Uygulama Açıklaması
 Bu proje, kullanıcının boy ve kilo değerlerine göre Vücut Kitle İndeksi'ni (BMI) hesaplayan basit bir Flutter uygulamasıdır.
 
-Uygulama Özellikleri
+## Uygulama Özellikleri
 - Kullanıcı, boyunu ve kilosunu girdikten sonra BMI değerini hesaplar.
 - BMI değerine göre kullanıcının durumunu gösterir (örneğin, "Normal Kilolu", "Zayıf", "Obezite" vb.).
-Hedef Kitle
-Sağlıklı yaşama dikkat edenler
+
 
 ## Hedef Kitle
 
@@ -61,9 +60,6 @@ Bu uygulama, aşağıdaki gruplar için tasarlanmıştır:
 - "Hesapla" butonuna tıklayın ve BMI sonucunu görün.
 
 
-## Lisans
-
-Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
 
 ** Final Video**: Cherry Chasers Trailer
 
